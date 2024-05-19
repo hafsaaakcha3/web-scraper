@@ -14,9 +14,9 @@ Categories (categories.tsx): Displays all available categories.
 Products (products.tsx): Displays all products within a specified category.
 Product Information (productInfo.tsx): Displays detailed information for a specific product.
 ## Technologies Used
-.# TypeScript
-.# Express.js
-.# React
-.# Axios
-.# Docker
-.# Docker Compose
+ TypeScript
+ Express.js
+ React
+ Axios
+ Docker
+ Docker Compose
